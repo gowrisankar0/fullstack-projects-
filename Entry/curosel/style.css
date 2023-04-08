@@ -1,0 +1,15 @@
+body{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    background-color: aquamarine;
+
+}
+.c{
+    min-height:80vh;
+    width:600px;
+    background-color: black;
+    border:8px solid red;
+    margin:10% auto;
+background: url("https://s.itl.cat/pngfile/s/306-3065787_ultra-hd-northern-lights-wallpaper-4k.jpg");   
+} 
