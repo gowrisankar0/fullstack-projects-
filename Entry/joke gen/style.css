@@ -43,6 +43,9 @@ margin:30px auto;
     cursor: pointer;
      border: none;
      border-radius: 7px;
+     margin-bottom: 25px;
+     font-size: 15px;
+     font-weight: 200;
 }
 .jokebtn:active{
     transform:scale(0.98);
